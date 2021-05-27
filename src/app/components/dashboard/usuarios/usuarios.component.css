@@ -1,0 +1,34 @@
+table {
+  width: 100%;
+  margin-top: 10px;
+}
+
+th{
+  width: 20%;
+}
+
+.ic{
+  text-align: right;
+}
+
+.pointer{
+  cursor: pointer;
+}
+
+.search{
+  color: #1878b0;
+}
+
+.edit{
+  color:#1f516f;
+}
+
+.redDelete{
+  color: #e15639;
+}
+
+.mat-form-field {
+  margin-top: 10px;
+  font-size: 14px;
+  width: 100%;
+}
